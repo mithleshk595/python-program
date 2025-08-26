@@ -80,19 +80,7 @@
 
 #     i +=1
     
-a = int(input("enter first number :"))
-b = int(input("enter second number :"))
-c = int(input("enter third number :"))
-d = int(input("enter fourth number :"))
 
-if(a <= b and a <= c):
-    print("first number is laegest", a)
-elif(b <= c):
-    print("second number is largest :", b)
-elif(c <= d):
-    print("third number is largest ", c)
-else:
-    print("fourth number is largest", d)
 
 
 
