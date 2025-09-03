@@ -30,5 +30,6 @@ print(s1.name, s1.marks) #mithlesh
 
 s2 = student("john", 80)
 print(s2.name, s2.marks) #john
- 
+
+
 

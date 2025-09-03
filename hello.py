@@ -35,12 +35,12 @@
 
 
 
-num= int(input("Entera number :"))
+# num= int(input("Entera number :"))
 
 
 
-if num % 2 == 0:
-    print(num, "is Even :")
-else:
-    print(num, "is Odd :")
+# if num % 2 == 0:
+#     print(num, "is Even :")
+# else:
+#     print(num, "is Odd :")
 

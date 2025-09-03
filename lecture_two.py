@@ -152,19 +152,19 @@
 # marks = [95, 65, 75, 86,  90]
 # print(marks[-3:-1])
 
-# a = int(input("enter first number:"))
-# b = int(input("enter sercond number:"))
-# c = int(input("enter third numberl:"))
-# d = int(input("enter fourth number:"))
+a = int(input("enter first number:"))
+b = int(input("enter sercond number:"))
+c = int(input("enter third numberl:"))
+d = int(input("enter fourth number:"))
 
-# if(a >= b and b >= c):
-#     print("first number is largest")
-# elif(b >= c):
-#     print("second number is largest")
-# elif(c >= d):
-#     print("third number is largest")
-# else:
-#     print("fourth number is largest")
+if(a >= b and b >= c):
+    print("first number is largest")
+elif(b >= c):
+    print("second number is largest")
+elif(c >= d):
+    print("third number is largest")
+else:
+    print("fourth number is largest")
 
 
     
