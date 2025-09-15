@@ -17,3 +17,5 @@ f"\n{"Mean:":<15}{mean:>10}",
 f"\n{"Std Dev:":<15}{sd:>10}",
 f"\n{"Variance:":<15}{var:>10}",
 
+
+

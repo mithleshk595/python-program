@@ -24,3 +24,5 @@ for ele in lst:
 
 print("Boys= ", boys, "girl= ", girls)
 
+
+

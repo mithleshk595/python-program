@@ -22,3 +22,6 @@ else:
 
 gs = bs + da + hra + ca 
 print('Gross salary = Rs.' + str(gs))
+
+
+

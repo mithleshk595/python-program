@@ -17,7 +17,7 @@ class complex:
     def shownumber(self):
         print(self.real, "i +", self.img, "j")
 
-    def __str__(self):
+    def __add__(self):
         return f"{self.real}i + {self.img}j"
 
 
@@ -30,6 +30,7 @@ num2.shownumber()
 
 num3 = num1.add(num2)
 print(num3)
+
 
 
 

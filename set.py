@@ -21,3 +21,4 @@ c -= e
 print(c)
 d ^= e
 print(d)
+

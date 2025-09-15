@@ -28,5 +28,3 @@ for i in range(len(mat1)):
 
 print(mat3)
 
-
-
